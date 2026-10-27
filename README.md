@@ -42,7 +42,7 @@ Hypotheses:
 Requirements
 ------------
 
-The README.md needs to contain the instructions to download all data and reproduce your experiments. All analyses and results need to be reproducible and documented in notebooks. In a sense, the notebooks should act as a final report. They should contain your hypotheses, methods, experiments, visualizations, analyses, plus results and also explain these. They should be understandable to a third party who has not worked on the project.
+The README.md needs to contain the instructions to download all data and reproduce your experiments. All analyses and results need to be reproducible and documented.
 
 Your data science project must contain the following elements:
 
@@ -51,12 +51,19 @@ Your data science project must contain the following elements:
 - At least one statistical significance test.
 - At least one visualization.
 
+Additionally, you should write a final report, containing your hypotheses, methods, experiments, visualizations, analyses, plus results and an explanation of these. The report should be understandable to a third party who has not worked on the project.
+
 Grading
 ------------
 
 To pass, your project must be fully reproducible without errors. We recommend cloning your project, running it in a fresh environment, and following the instructions you provide in this README before submitting it to ensure reproducibility.
 
-Your project will be graded based on the quality of the documentation of the experiments and results. Use the following questions to guide your project:
+Your project will be graded based on
+- the final presentation
+- the written report
+- the quality of the documentation of the experiments and results.
+
+Use the following questions to guide your project:
 
 - Data:
   - What are the main properties of your data? 
